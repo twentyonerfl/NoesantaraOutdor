@@ -1,0 +1,592 @@
+{
+  "products": [
+    {
+      "id": "prod-1780987594298",
+      "name": "Tenda Camping Bestway/Pavillo 4P",
+      "category": "Tenda",
+      "pricePerDay": 70000,
+      "stock": 8,
+      "availableStock": 3,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780987440749-sgjjp0q.png"
+      ],
+      "description": "Tenda Bestway/Pavillo merupakan tenda camping berbahan polyester 190T tahan air dengan rangka fiberglass ringan dan kuat. Memiliki kapasitas 3–4 orang, ventilasi yang baik, jaring anti-serangga, serta lantai waterproof untuk kenyamanan selama berkemah. Praktis dipasang dan cocok digunakan untuk camping keluarga maupun aktivitas outdoor lainnya.",
+      "features": [
+        "Kapasitas nyaman untuk 3–4 orang dewasa",
+        "Material polyester 190T berkualitas dengan lapisan tahan air",
+        "Rangka fiberglass ringan dan kokoh",
+        "Tersedia dalam varian double layer",
+        "Pintu dengan jaring anti-nyamuk untuk sirkulasi udara optimal",
+        "Lantai PE waterproof yang tahan terhadap kelembapan tanah",
+        "Ventilasi udara yang baik untuk mengurangi pengap di dalam tenda",
+        "Mudah dipasang hanya dalam beberapa menit",
+        "Dilengkapi tas penyimpanan untuk memudahkan transportasi dan penyimpanan."
+      ]
+    },
+    {
+      "id": "prod-1780987747836",
+      "name": "Matras Camping Foam",
+      "category": "Accessories",
+      "pricePerDay": 10000,
+      "stock": 12,
+      "availableStock": 8,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780987662482-vh4xht9.png"
+      ],
+      "description": "Matras Camping 180 × 50 cm merupakan alas tidur outdoor yang dirancang untuk memberikan kenyamanan ekstra saat berkemah, hiking, maupun kegiatan alam terbuka. Terbuat dari material foam ringan dan tahan lama, matras ini membantu mengurangi tekanan dari permukaan tanah yang keras sekaligus memberikan isolasi dari dingin dan kelembapan.",
+      "features": [
+        "Ukuran 180 × 50 cm yang ideal untuk 1 orang dewasa",
+        "Material foam ringan, nyaman, dan tahan lama",
+        "Membantu mengurangi rasa dingin dan lembap dari permukaan tanah",
+        "Memberikan bantalan ekstra untuk kualitas tidur yang lebih baik",
+        "Mudah digulung dan tidak memakan banyak ruang penyimpanan",
+        "Bobot ringan sehingga praktis dibawa saat hiking maupun camping",
+        "Permukaan mudah dibersihkan setelah digunakan"
+      ]
+    },
+    {
+      "id": "prod-1780987912352",
+      "name": "Kompor Portable Kotak",
+      "category": "Masak",
+      "pricePerDay": 10000,
+      "stock": 5,
+      "availableStock": 2,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780987868535-iywpmv8.png"
+      ],
+      "description": "Kompor Portable Kotak adalah kompor gas praktis berbahan metal yang dirancang untuk kebutuhan camping, piknik, memasak di alam terbuka, maupun kondisi darurat. Menggunakan tabung gas butane cartridge yang mudah dipasang, kompor ini menghasilkan api yang stabil dengan sistem penyalaan otomatis (Piezo Ignition) tanpa perlu korek api",
+      "features": [
+        "Menggunakan gas butane cartridge 220–227 gram yang praktis dan mudah ditemukan",
+        "Sistem penyalaan otomatis Piezo Ignition tanpa korek api",
+        "Api stabil dengan pengaturan besar-kecil nyala yang mudah",
+        "Body metal kokoh dan tahan lama",
+        "Dilengkapi sistem pengunci tabung gas untuk keamanan penggunaan",
+        "Fitur auto shut-off saat tekanan gas tidak normal",
+        "Ringan, ringkas, dan mudah dibawa",
+        "Dilengkapi koper penyimpanan praktis"
+      ]
+    },
+    {
+      "id": "prod-1780988089553",
+      "name": "Kompor Portable Bunga",
+      "category": "Masak",
+      "pricePerDay": 15000,
+      "stock": 5,
+      "availableStock": 2,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780988054730-nz357fe.png"
+      ],
+      "description": "Kompor Portable Bunga adalah kompor gas outdoor berdesain lipat yang ringan, ringkas, dan mudah dibawa untuk kegiatan camping, hiking, trekking, maupun pendakian gunung. Menggunakan bahan stainless steel yang tahan panas dan karat, kompor ini dipasang langsung pada tabung gas ulir (gas kaleng EN417) sehingga lebih praktis dan hemat ruang.",
+      "features": [
+        "Desain lipat berbentuk bunga yang ringkas dan mudah dibawa",
+        "Material stainless steel tahan panas dan tahan karat",
+        "Menggunakan gas kaleng ulir (EN417) yang praktis untuk aktivitas outdoor",
+        "Tatakan panci kokoh dan stabil saat digunakan memasak",
+        "Pengaturan besar-kecil api yang mudah",
+        "Bobot ringan sehingga ideal untuk hiking dan pendakian",
+        "Mudah dipasang dan dibongkar dalam hitungan detik"
+      ]
+    },
+    {
+      "id": "prod-1780988197640",
+      "name": "Kompor Portable Besar",
+      "category": "Masak",
+      "pricePerDay": 25000,
+      "stock": 5,
+      "availableStock": 1,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780988166620-u9zxu2d.png"
+      ],
+      "description": "Kompor Portable Besar adalah kompor gas outdoor berkapasitas besar yang dirancang untuk kebutuhan memasak kelompok, camping keluarga, gathering, maupun basecamp. Dengan dudukan yang lebih lebar dan konstruksi yang kokoh, kompor ini mampu menopang panci, wajan, maupun peralatan masak berukuran besar dengan stabil. Dilengkapi pengaturan api yang presisi serta konsumsi bahan bakar yang efisien",
+      "features": [
+        "Dudukan besar dan kokoh untuk berbagai ukuran peralatan masak",
+        "Nyala api kuat dan stabil untuk memasak lebih cepat",
+        "Pengaturan besar-kecil api yang mudah dan presisi",
+        "Material metal berkualitas yang tahan panas dan tahan lama",
+        "Cocok digunakan untuk memasak dalam jumlah banyak",
+        "Stabil untuk panci, nesting, maupun wajan berukuran besar",
+        "Mudah digunakan dan dirawat",
+        "Ideal untuk camping keluarga, kegiatan komunitas, gathering, dan basecamp outdoor"
+      ]
+    },
+    {
+      "id": "prod-1780988460268",
+      "name": "Gas Portable 230 gram",
+      "category": "Masak",
+      "pricePerDay": 20000,
+      "stock": 5,
+      "availableStock": 5,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780988412688-aypbz3p.png"
+      ],
+      "description": "Gas Portable 230 gram merupakan bahan bakar praktis untuk kompor camping yang menggunakan sistem ulir (screw type). Dengan campuran butane dan propane, gas ini menghasilkan nyala api yang stabil serta cocok digunakan untuk berbagai aktivitas outdoor seperti camping, hiking, dan memasak di alam terbuka",
+      "features": [
+        "Isi bersih 230 gram",
+        "Kompatibel dengan berbagai kompor gas ulir",
+        "Nyala api stabil dan efisien",
+        "Kemasan ringan dan mudah dibawa",
+        "Sistem pemasangan praktis dan aman"
+      ]
+    },
+    {
+      "id": "prod-1780988925213",
+      "name": "Headlamp",
+      "category": "Accessories",
+      "pricePerDay": 10000,
+      "stock": 5,
+      "availableStock": 5,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780988904556-bjzj8u3.png"
+      ],
+      "description": "Headlamp adalah lampu penerangan yang dipasang di kepala untuk memberikan pencahayaan maksimal tanpa mengganggu aktivitas tangan. Cocok digunakan saat camping, mendaki, memancing, maupun aktivitas malam hari di alam terbuka.",
+      "features": [
+        "Pencahayaan terang dan fokus",
+        "Durasi penggunaan hingga 6–12 jam (tergantung mode penggunaan)",
+        "Strap elastis yang nyaman digunakan",
+        "Beberapa mode cahaya (High, Low, Flash)",
+        "Ringan dan mudah dibawa"
+      ]
+    },
+    {
+      "id": "prod-1780988981906",
+      "name": "Trekking Pole",
+      "category": "Accessories",
+      "pricePerDay": 15000,
+      "stock": 5,
+      "availableStock": 5,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780988944513-ppkyve9.png"
+      ],
+      "description": "Trekking Pole merupakan tongkat pendakian yang membantu menjaga keseimbangan dan mengurangi beban pada lutut saat berjalan di medan menanjak maupun menurun. Terbuat dari material aluminium alloy yang kuat namun tetap ringan untuk dibawa.",
+      "features": [
+        "Material aluminium alloy berkekuatan tinggi",
+        "Mampu menahan beban hingga ±80–100 kg penggunaan normal",
+        "Tinggi dapat disesuaikan",
+        "Grip nyaman dan anti-slip",
+        "Ringan serta mudah dilipat atau disimpan",
+        "Membantu menjaga keseimbangan dan mengurangi kelelahan saat pendakian."
+      ]
+    },
+    {
+      "id": "prod-1780989109828",
+      "name": "Senter Tangan",
+      "category": "Accessories",
+      "pricePerDay": 10000,
+      "stock": 5,
+      "availableStock": 5,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780989085374-tude4uw.png"
+      ],
+      "description": "Senter outdoor dirancang untuk memberikan pencahayaan yang terang dan andal saat camping, pendakian, maupun keadaan darurat. Menggunakan LED hemat energi dengan konstruksi yang kokoh dan tahan terhadap penggunaan di luar ruangan.",
+      "features": [
+        "Cahaya LED terang dan hemat daya",
+        "Durasi penggunaan hingga 6–10 jam",
+        "Body kokoh dan tahan benturan ringan",
+        "Tahan percikan air (splash resistant)",
+        "Ringan dan mudah dibawa",
+        "Cocok untuk camping, hiking, perjalanan malam, dan kebutuhan darurat."
+      ]
+    },
+    {
+      "id": "prod-1780989457587",
+      "name": "Sleeping Bag",
+      "category": "Accessories",
+      "pricePerDay": 15000,
+      "stock": 5,
+      "availableStock": 5,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780989433347-yr6tyxi.png"
+      ],
+      "description": "Sleeping Bag adalah perlengkapan tidur outdoor yang dirancang untuk menjaga suhu tubuh tetap hangat dan nyaman saat camping maupun pendakian. Menggunakan bahan ringan dengan lapisan insulasi yang nyaman, sleeping bag mudah dilipat dan dibawa dalam perjalanan.",
+      "features": [
+        "Ukuran nyaman untuk 1 orang dewasa",
+        "Material lembut dan hangat",
+        "Membantu menjaga suhu tubuh saat malam hari",
+        "Ringan dan mudah dikemas",
+        "Dilengkapi tas kompresi",
+        "Cocok untuk camping, hiking, dan traveling"
+      ]
+    },
+    {
+      "id": "prod-1780989527164",
+      "name": "Flysheet",
+      "category": "Tenda",
+      "pricePerDay": 15000,
+      "stock": 5,
+      "availableStock": 1,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780989503424-77ktqv8.png"
+      ],
+      "description": "Flysheet merupakan shelter serbaguna yang berfungsi sebagai pelindung dari panas matahari, hujan, maupun embun saat kegiatan outdoor. Dapat digunakan sebagai atap tambahan tenda, area memasak, maupun tempat berkumpul.",
+      "features": [
+        "Ukuran ±3 x 4 meter",
+        "Material waterproof tahan hujan",
+        "Dapat digunakan sebagai shelter maupun kanopi",
+        "Ringan dan mudah dipasang",
+        "Cocok untuk camping keluarga maupun basecamp."
+      ]
+    },
+    {
+      "id": "prod-1780989595271",
+      "name": "Cooking Set",
+      "category": "Masak",
+      "pricePerDay": 15000,
+      "stock": 5,
+      "availableStock": 5,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780989566371-ce9365i.png"
+      ],
+      "description": "Cooking Set adalah perlengkapan memasak outdoor yang dirancang praktis dan ringkas untuk kebutuhan camping dan pendakian. Seluruh perlengkapan dapat disusun menjadi satu paket sehingga mudah dibawa.",
+      "features": [
+        "Terdiri dari nesting/panci, wajan, teko mini, mangkuk, sendok sayur, dan spatula",
+        "Material aluminium ringan",
+        "Hemat ruang penyimpanan",
+        "Mudah dibersihkan"
+      ]
+    },
+    {
+      "id": "prod-1780989654709",
+      "name": "Meja Lipat",
+      "category": "Accessories",
+      "pricePerDay": 15000,
+      "stock": 5,
+      "availableStock": 5,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780989630855-an9ccwj.png"
+      ],
+      "description": "Meja Lipat Outdoor dirancang untuk memberikan kenyamanan saat memasak, makan, maupun bersantai di area camping. Konstruksinya kokoh namun tetap mudah dibawa.",
+      "features": [
+        "Rangka aluminium ringan dan kuat",
+        "Permukaan meja kokoh",
+        "Mudah dilipat dan dibawa",
+        "Tahan terhadap penggunaan outdoor",
+        "Cocok untuk camping dan piknik."
+      ]
+    },
+    {
+      "id": "prod-1780989796149",
+      "name": "Meja Lipat Alas Kain",
+      "category": "Accessories",
+      "pricePerDay": 15000,
+      "stock": 5,
+      "availableStock": 5,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780989766919-hgr2mzs.png"
+      ],
+      "description": "Meja Lipat Alas Kain merupakan meja camping praktis dengan permukaan berbahan kain tebal yang ringan dan mudah dirakit. Ideal untuk aktivitas santai maupun perlengkapan tambahan di area tenda.",
+      "features": [
+        "Bobot ringan dan ringkas",
+        "Pemasangan cepat",
+        "Mudah dibawa dalam tas penyimpanan",
+        "Cocok untuk camping, piknik, dan gathering outdoor."
+      ]
+    },
+    {
+      "id": "prod-1780989908801",
+      "name": "Daypack",
+      "category": "Carrier",
+      "pricePerDay": 15000,
+      "stock": 5,
+      "availableStock": 5,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780989888424-7apctrx.png"
+      ],
+      "description": "Daypack adalah tas harian berkapasitas sedang yang cocok digunakan untuk hiking singkat, traveling, maupun aktivitas outdoor sehari-hari.",
+      "features": [
+        "Kapasitas ±20–30 Liter",
+        "Kompartemen utama luas",
+        "Ringan dan nyaman digunakan",
+        "Dilengkapi kantong tambahan untuk perlengkapan kecil",
+        "Cocok untuk day hike dan perjalanan harian."
+      ]
+    },
+    {
+      "id": "prod-1780989950565",
+      "name": "Emergency Lamp",
+      "category": "Accessories",
+      "pricePerDay": 15000,
+      "stock": 5,
+      "availableStock": 5,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780989941434-n5q9o9s.png"
+      ],
+      "description": "Emergency Lamp merupakan lampu penerangan portabel yang dirancang untuk memberikan cahaya merata di area tenda maupun basecamp saat malam hari.",
+      "features": [
+        "Pencahayaan terang dan luas",
+        "Durasi penggunaan hingga 6–12 jam",
+        "Dapat digantung di dalam tenda",
+        "Hemat daya",
+        "Cocok untuk camping dan keadaan darurat."
+      ]
+    },
+    {
+      "id": "prod-1780990008930",
+      "name": "Kursi Outdoor Premium I (XXL)",
+      "category": "Accessories",
+      "pricePerDay": 25000,
+      "stock": 5,
+      "availableStock": 5,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780989994401-vja87b2.png"
+      ],
+      "description": "Kursi Outdoor Premium XXL menawarkan kenyamanan maksimal dengan ukuran ekstra besar dan sandaran ergonomis untuk bersantai di area camping.",
+      "features": [
+        "Ukuran XXL ekstra lega",
+        "Rangka baja kokoh",
+        "Kapasitas beban hingga ±120 kg",
+        "Sandaran nyaman",
+        "Dilengkapi tas penyimpanan",
+        "Cocok untuk camping keluarga."
+      ]
+    },
+    {
+      "id": "prod-1780990087792",
+      "name": "Kursi Outdoor Premium II (XXL)",
+      "category": "Accessories",
+      "pricePerDay": 25000,
+      "stock": 5,
+      "availableStock": 5,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780990053575-vp9ivhp.png"
+      ],
+      "description": "Kursi Outdoor Premium II hadir dengan desain premium dan ukuran ekstra besar untuk memberikan pengalaman duduk yang lebih nyaman selama aktivitas outdoor.",
+      "features": [
+        "Ukuran XXL yang luas",
+        "Rangka kuat dan stabil",
+        "Kapasitas beban hingga ±120 kg",
+        "Mudah dilipat dan dibawa",
+        "Cocok untuk camping, memancing, dan piknik."
+      ]
+    },
+    {
+      "id": "prod-1780990135607",
+      "name": "Kursi Outdoor Standar (XL)",
+      "category": "Accessories",
+      "pricePerDay": 15000,
+      "stock": 5,
+      "availableStock": 5,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780990122241-3w4kekc.png"
+      ],
+      "description": "Kursi Outdoor Standar XL merupakan kursi lipat praktis yang nyaman digunakan untuk berbagai aktivitas outdoor dengan ukuran yang tetap lega untuk satu orang dewasa.",
+      "features": [
+        "Ukuran XL nyaman",
+        "Ringan dan mudah dibawa",
+        "Rangka kokoh",
+        "Mudah dilipat",
+        "Cocok untuk camping dan kegiatan outdoor lainnya."
+      ]
+    },
+    {
+      "id": "prod-1780990200248",
+      "name": "Tas Carrier Antarestar 60L",
+      "category": "Carrier",
+      "pricePerDay": 15000,
+      "stock": 5,
+      "availableStock": 5,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780990171257-0pwkdys.png"
+      ],
+      "description": "Tas Carrier Antarestar dirancang untuk membawa perlengkapan camping dan pendakian dengan kapasitas besar serta sistem distribusi beban yang nyaman.",
+      "features": [
+        "Kapasitas ±60 Liter",
+        "Kompartemen utama luas",
+        "Sabuk pinggang dan dada untuk kenyamanan",
+        "Material kuat dan tahan lama",
+        "Cocok untuk pendakian dan camping."
+      ]
+    },
+    {
+      "id": "prod-1780990294082",
+      "name": "Sepatu Hiking",
+      "category": "Accessories",
+      "pricePerDay": 34999,
+      "stock": 5,
+      "availableStock": 5,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780990272367-tooyfcb.png"
+      ],
+      "description": "Sepatu Hiking dirancang untuk memberikan perlindungan dan kenyamanan saat berjalan di berbagai medan outdoor, mulai dari jalur tanah hingga jalur berbatu.",
+      "features": [
+        "Sol anti-slip",
+        "Material kuat dan tahan lama",
+        "Nyaman digunakan dalam perjalanan jauh",
+        "Memberikan perlindungan pada kaki dan pergelangan",
+        "Cocok untuk hiking dan trekking."
+      ]
+    },
+    {
+      "id": "prod-1780990351216",
+      "name": "Hammock",
+      "category": "Accessories",
+      "pricePerDay": 15000,
+      "stock": 5,
+      "availableStock": 5,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780990333771-usyfavi.png"
+      ],
+      "description": "Hammock merupakan tempat istirahat gantung yang ringan dan praktis untuk digunakan saat camping maupun bersantai di alam terbuka.",
+      "features": [
+        "Ukuran ±270 × 140 cm",
+        "Kapasitas 1–2 orang",
+        "Material parasut yang kuat dan nyaman",
+        "Ringan dan mudah dibawa",
+        "Cepat dipasang pada dua titik penyangga",
+        "Cocok untuk camping dan bersantai outdoor."
+      ]
+    },
+    {
+      "id": "prod-1780990781932",
+      "name": "Jaket Gunung ",
+      "category": "Apparel",
+      "pricePerDay": 15000,
+      "stock": 5,
+      "availableStock": 5,
+      "status": "Ready",
+      "images": [
+        "/uploads/1780990757134-sqefo3l.jpg"
+      ],
+      "description": "Jaket Gunung merupakan perlengkapan outdoor yang dirancang untuk memberikan perlindungan optimal dari angin, hujan ringan, dan udara dingin saat camping, hiking, maupun pendakian. Menggunakan material yang ringan, tahan angin (windproof), serta memiliki sirkulasi udara yang baik, jaket ini tetap nyaman digunakan dalam berbagai kondisi cuaca dan aktivitas outdoor",
+      "features": [
+        "aterial ringan, kuat, dan nyaman digunakan",
+        "Windproof untuk melindungi dari terpaan angin dingin",
+        "Water repellent / tahan percikan air dan hujan ringan",
+        "Desain breathable sehingga tidak mudah gerah saat beraktivitas",
+        "Dilengkapi hoodie untuk perlindungan tambahan",
+        "Resleting dan jahitan berkualitas untuk penggunaan jangka panjang"
+      ]
+    }
+  ],
+  "rentals": [],
+  "finance": [
+    {
+      "id": "fin-auto-1780991684072",
+      "date": "2026-06-09",
+      "type": "pemasukan",
+      "category": "Sewa Alat",
+      "amount": 280000,
+      "description": "Pendapatan rental disetujui dari iqram (Tenda Camping Bestway/Pavillo 4P)"
+    }
+  ],
+  "categories": [
+    {
+      "id": "Tenda",
+      "name": "Tenda & Shelter ",
+      "icon": "Tent",
+      "description": "Tenda dome double layer windproof dan waterproof berbagai kapasitas."
+    },
+    {
+      "id": "Carrier",
+      "name": "Carrier & Pack",
+      "icon": "Backpack",
+      "description": "Carrier dan tas outdoor yang kuat dan nyaman untuk perjalanan jauh."
+    },
+    {
+      "id": "Apparel",
+      "name": "Pakaian & Jaket",
+      "icon": "Shirt",
+      "description": "Jaket waterproof windproof hardshell premium, sarung tangan, gaiter."
+    },
+    {
+      "id": "Masak",
+      "name": "Cooking Set",
+      "icon": "Flame",
+      "description": "Kompor gas camping, nesting cooker set anti-lengket portable."
+    },
+    {
+      "id": "Accessories",
+      "name": "Aksesoris",
+      "icon": "Compass",
+      "description": "Sleeping bag tebal, matras camping, senter kepala, trekking pole."
+    },
+    {
+      "id": "cat-kursi",
+      "name": "Meja & Kursi",
+      "icon": "Armchair",
+      "description": "Kursi dan meja camping simpel dan nyaman untuk santai di alam terbuka."
+    }
+  ],
+  "settings": {
+    "address": "Basecamp Noesantara, Jl.Pulo Kiton, Aceh",
+    "phone": "+62 822-6227-8182",
+    "email": "noesantaraoutdoor@gmail.com",
+    "operatingHours": "Setiap Hari (Senin - Minggu) 08.00 WIB - 21.00 WIB",
+    "cleanWarranty": "Peralatan dicuci wangi setelah sewa.",
+    "gmapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.9168067868735!2d107.60492857418702!3d-6.890985867429188!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e6587c6cfb4b%3A0xd674c2d46e10037a!2sParis%20Van%20Java!5e0!3m2!1sid!2sid!4v1716800000000!5m2!1sid!2sid",
+    "latitude": 5.205950069865054,
+    "longitude": 96.70172184705736,
+    "mapIcon": "default"
+  },
+  "testimonials": [
+    {
+      "id": "t-1779959498838",
+      "name": "Andre Syaputra",
+      "role": "Bireuen",
+      "text": "Alatnya bersih dan lengkap, proses rental juga cepat. Cocok buat camping bareng teman-teman",
+      "rating": 5,
+      "avatar": "/uploads/1779959496253-llk7b5c.jpg"
+    },
+    {
+      "id": "t-1779959587707",
+      "name": "Rizki Maulana",
+      "role": "Lhokseumawe",
+      "text": "Carrier dan tendanya masih bagus banget, admin responsif dan ramah, sangat di rekomendasikan",
+      "rating": 5,
+      "avatar": "/uploads/1779959584671-jp9uov8.jpg"
+    },
+    {
+      "id": "t-1779959690574",
+      "name": "Fadli",
+      "role": "Bener Meriah",
+      "text": "Checkout gampang langsung via WhatsApp, jadi tidak ribet sama sekali, pengantarannya sesuai jadwal",
+      "rating": 5,
+      "avatar": "/uploads/1779959687903-g12hwcd.jpg"
+    },
+    {
+      "id": "t-1779959858238",
+      "name": "Nadiatul Husna",
+      "role": "Bireuen",
+      "text": "Harga terjangkau dan kualitas alatnya mantap. Recommended untuk anak outdoor, salut sama pelayanannya juga",
+      "rating": 5,
+      "avatar": "/uploads/1779959841977-jbm8ye3.jpg"
+    },
+    {
+      "id": "t-1779959914503",
+      "name": "Nayla",
+      "role": "Aceh Utara",
+      "text": "Recommended banget buat cewek yang mau camping tanpa repot bawa perlengkapan sendiri.",
+      "rating": 5,
+      "avatar": "/uploads/1779959911362-7echyz5.jpg"
+    },
+    {
+      "id": "t-1779960080946",
+      "name": "Muhammad Haikal",
+      "role": "Pidie Jaya",
+      "text": "Ga nyangka alat rentalnya sebagus ini, nyaman dipakai dan bersih, Alat outdoor-nya keren dan masih terawat, pasti bakal rental lagi",
+      "rating": 5,
+      "avatar": "/uploads/1779960078997-46b4l9l.jpg"
+    }
+  ]
+}
