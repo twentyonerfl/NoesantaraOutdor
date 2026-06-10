@@ -42,7 +42,7 @@ export default function Navbar() {
   return (
     <>
       <nav
-        className={`fixed top-0 left-0 right-0 z-50 transition-premium duration-300 ${isScrolled
+        className={`fixed top-0 left-0 right-0 z-[9999] transition-premium duration-300 ${isScrolled
           ? "glass-silver-glossy py-3"
           : "bg-transparent py-5"
           }`}
@@ -161,7 +161,7 @@ export default function Navbar() {
               animate={{ opacity: 0.6 }}
               exit={{ opacity: 0 }}
               onClick={() => setIsOpen(false)}
-              className="fixed inset-0 bg-black z-40 md:hidden"
+              className="fixed inset-0 bg-black z-[10000] md:hidden"
             />
 
             {/* Panel */}
@@ -170,7 +170,7 @@ export default function Navbar() {
               animate={{ x: 0 }}
               exit={{ x: "100%" }}
               transition={{ type: "spring", bounce: 0, duration: 0.4 }}
-              className="fixed right-0 top-0 bottom-0 w-80 max-w-full bg-neutral-950 border-l border-neutral-800 z-50 p-6 shadow-2xl flex flex-col justify-between md:hidden"
+              className="fixed right-0 top-0 bottom-0 w-80 max-w-full bg-neutral-950 border-l border-neutral-800 z-[10001] p-6 shadow-2xl flex flex-col justify-between md:hidden"
             >
               <div>
                 <div className="flex items-center justify-between border-b border-neutral-850 pb-4 mb-6">
