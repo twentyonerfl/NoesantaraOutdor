@@ -1,13 +1,6 @@
 import type { Metadata } from "next";
-import { Outfit } from "next/font/google";
 import "./globals.css";
 import { CartProvider } from "@/context/CartContext";
-
-const outfitFont = Outfit({
-  variable: "--font-outfit",
-  subsets: ["latin"],
-  weight: ["300", "400", "500", "600", "700", "800"],
-});
 
 export const metadata: Metadata = {
   title: "Noesantara Outdoor | Penyewaan Alat Outdoor & Camping Premium",
@@ -26,7 +19,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="id" className={`${outfitFont.variable} h-full antialiased dark`}>
+    <html lang="id" className="h-full antialiased dark">
       <body className="min-h-full flex flex-col bg-dark-bg text-foreground font-sans selection:bg-brand-red selection:text-white">
         <CartProvider>
           {children}
