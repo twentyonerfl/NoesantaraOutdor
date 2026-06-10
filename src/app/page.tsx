@@ -513,41 +513,41 @@ export default function Home() {
           </div>
 
           {/* Testimonial Grid */}
-          <div className="grid grid-cols-3 md:grid-cols-3 gap-2.5 md:gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-8">
             {testimonials.map((test, index) => (
               <div
                 key={test.id || index}
-                className="flex flex-col justify-between p-3 md:p-6 rounded-2xl md:rounded-3xl glassmorphism border border-neutral-900 hover:border-neutral-800 transition-premium group hover:-translate-y-1 hover:shadow-2xl"
+                className="flex flex-col justify-between p-4 md:p-6 rounded-2xl md:rounded-3xl glassmorphism border border-neutral-900 hover:border-neutral-800 transition-premium group hover:-translate-y-1 hover:shadow-2xl"
               >
                 <div>
                   {/* Rating Stars */}
-                  <div className="flex items-center gap-0.5 md:gap-1 mb-2 md:mb-5">
+                  <div className="flex items-center gap-1 md:gap-1.5 mb-3 md:mb-5">
                     {[1, 2, 3, 4, 5].map((star) => (
                       <Star
                         key={star}
-                        className={`w-2.5 h-2.5 md:w-4 md:h-4 ${star <= test.rating
+                        className={`w-3.5 h-3.5 md:w-4 md:h-4 ${star <= test.rating
                           ? "fill-brand-yellow text-brand-yellow"
                           : "text-neutral-800"
                           }`}
                       />
                     ))}
                   </div>
-                  <p className="text-[7.5px] md:text-sm text-gray-300 leading-relaxed font-light italic line-clamp-4 md:line-clamp-none">
+                  <p className="text-xs md:text-sm text-gray-300 leading-relaxed font-light italic line-clamp-4 md:line-clamp-none">
                     &ldquo;{test.text}&rdquo;
                   </p>
                 </div>
 
-                <div className="flex items-center gap-1.5 md:gap-4 mt-3 md:mt-8 pt-2.5 md:pt-5 border-t border-neutral-900">
+                <div className="flex items-center gap-2.5 md:gap-4 mt-4 md:mt-8 pt-3 md:pt-5 border-t border-neutral-900">
                   <Image
                     src={test.avatar || "/logo.png"}
                     alt={test.name}
                     width={40}
                     height={40}
-                    className="w-6 h-6 md:w-10 md:h-10 rounded-full object-cover border border-neutral-800 group-hover:border-brand-red transition-premium flex-shrink-0"
+                    className="w-8 h-8 md:w-10 md:h-10 rounded-full object-cover border border-neutral-800 group-hover:border-brand-red transition-premium flex-shrink-0"
                   />
                   <div className="min-w-0">
-                    <h4 className="font-extrabold text-white text-[8px] md:text-sm tracking-wide truncate">{test.name}</h4>
-                    <p className="text-[7px] md:text-[10px] font-bold text-brand-green uppercase tracking-wider truncate">{test.role}</p>
+                    <h4 className="font-extrabold text-white text-xs md:text-sm tracking-wide truncate">{test.name}</h4>
+                    <p className="text-[9px] md:text-[10px] font-bold text-brand-green uppercase tracking-wider truncate">{test.role}</p>
                   </div>
                 </div>
               </div>
